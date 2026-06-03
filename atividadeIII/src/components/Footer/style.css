@@ -1,0 +1,14 @@
+.footer {
+    background-color: #222;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+    margin-top: 2rem;
+}
+
+.footer-frase {
+    font-style: italic;
+    color: gainsboro;
+    margin-top: 10px;
+    font-size: 0.9rem;
+}
