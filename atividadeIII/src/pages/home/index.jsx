@@ -22,7 +22,7 @@ export default function Home() {
                 </div>
             </section>
 
-            <section id="Videos">
+            <section id="videos">
                 <h2>Videos Familia</h2>
                 <div className="videos-familia">
                 <video controls width="400">
