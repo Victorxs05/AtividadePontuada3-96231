@@ -13,7 +13,7 @@ export default function Home() {
                 <p>Obrigado por todos ensinamentos, você é minha maior inspiração, eu te amo!</p>
             </section>
             
-            <section id="Fotos">
+            <section id="fotos">
                 <h2>Fotos Familia</h2>
                 <div className="fotos-familia">
                     <div className="foto">Foto 1</div>
