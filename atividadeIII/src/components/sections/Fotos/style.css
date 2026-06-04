@@ -1,20 +1,20 @@
-.photos-section {
+.gallery-section {
     padding: 40px 0;
 }
 
-.photos-desc {
+.gallery-desc {
     margin-bottom: 30px;
     color: var(--text);
 }
 
-.photos-grid {
+.gallery-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
     gap: 30px;
     margin-top: 20px;
 }
 
-.family-card {
+.gallery-card {
     background: var(--code-bg);
     border: 1px solid var(--border);
     border-radius: 12px;

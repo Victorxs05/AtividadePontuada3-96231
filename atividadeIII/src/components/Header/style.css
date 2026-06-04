@@ -21,7 +21,7 @@
     color: var(--accent);
 }
 
-.header-menu {
+.nav-menu {
     display: flex;
     gap: 20px;
 }

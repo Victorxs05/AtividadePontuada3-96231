@@ -5,11 +5,11 @@ import foto3 from '../../../assets/foto3.jpeg';
 
 export default function Fotos() {
     return (
-        <section className="photos-section" id="fotosfamilia">
+        <section className="gallery-section" id="fotosfamilia">
             <h2>Fotos Familia</h2>
             <p className="photos-desc">Lembranças dos melhores momentos.</p>
             
-            <div className="photos-grid">
+            <div className="gallery-grid">
                 <div className="family-card">
                     <img src={foto1} alt="Foto de Família" className="family-img" />
                     <div className="card-info">
