@@ -11,7 +11,7 @@ export default function Fotos() {
             
             <div className="gallery-grid">
                 <div className="family-card">
-                    <img src={foto1} alt="Foto de Família" className="family-img" />
+                    <img src={foto2} alt="Foto de Família" className="family-img" />
                     <div className="card-info">
                         <h3>Minha Vida!</h3>
                         <p>Todo amor e carinho.</p>
@@ -19,7 +19,7 @@ export default function Fotos() {
                 </div>
 
                 <div className="family-card">
-                    <img src={foto2} alt="Memorias para sempre" className="family-img" />
+                    <img src={foto3} alt="Memorias para sempre" className="family-img" />
                     <div className="card-info">
                         <h3>Melhores dias</h3>
                         <p>A felicidade mora nos detalhes que quase passam despercebidos.</p>
@@ -27,7 +27,7 @@ export default function Fotos() {
                 </div>
 
                 <div className="family-card">
-                    <img src={foto3} alt="Conquistas Coletivas" className="family-img" />
+                    <img src={foto1} alt="Conquistas Coletivas" className="family-img" />
                     <div className="card-info">
                         <h3>Inspiração para vida</h3>
                         <p>Fazendo parte das suas melhores lembranças.</p>
