@@ -3,8 +3,8 @@ import './style.css';
 export default function Hero() {
     return (
         <section className="intro-section" id="inicio">
-            <h1 className="fade-in">Grande homenagem!</h1>
-            <p className="subtitle">Obrigado por todo apoio, amor e confiança que me dão diariamente..</p>
+            <h1 className="fade-in">Para quem nos ensinou a viver!</h1>
+            <p className="subtitle">Uma homenagem a quem ensinou os maiores valores da vida.</p>
         </section>
     );
 }

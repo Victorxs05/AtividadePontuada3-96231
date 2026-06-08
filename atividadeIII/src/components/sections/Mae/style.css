@@ -28,5 +28,6 @@
 .section-card p {
     line-height: 1.6;
     color: var(--text);
+    color: #2D3748;
     margin: 0;
 }

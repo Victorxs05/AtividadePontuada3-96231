@@ -3,7 +3,7 @@ import './style.css'
 export default function Header() {
     return (
         <header className="header">
-            <div className="header-logo">Grande Homenagem</div>
+            <div className="header-logo">Homenagem Especial</div>
             <nav className="nav-menu">
                 <a href="inicio" className="header-links">Inicio</a>
                 <a href="#mae" className="header-links">Mãe</a>

@@ -1,6 +1,6 @@
 .footer {
     font-style: italic;
-    font-size: 1.1rem;
+    font-size: 0.9rem;
     color: var(--accent);
     max-width: 700px;
     margin-inline: auto;
@@ -9,15 +9,16 @@
 
 .footer-frase {
     font-style: italic;
-    font-size: 1.1rem;
+    font-size: 0.9rem;
     color: var(--accent);
+    color: #D1D5DB;
     max-width: 700px;
     margin-inline: auto;
     margin-bottom: 15px;
 }
 
 .footer-creditos {
-    font-size: 1rem;
+    font-size: 0.85rem;
     color: var(--text-h);
     font-weight: 500;
     margin-bottom: 5px;

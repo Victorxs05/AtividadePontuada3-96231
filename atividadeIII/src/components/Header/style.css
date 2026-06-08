@@ -9,7 +9,7 @@
     justify-content: space-between;
     align-items: center;
     padding: 0 5%;
-    box-shadow: 0 2px 15px black;
+    box-shadow: 0 2px 15px #F5EBDD;
     z-index: 1000;
     border-bottom: 1px solid var(--border);
     box-sizing: border-box;
@@ -19,6 +19,7 @@
     font-size: 1.3rem;
     font-weight: bold;
     color: var(--accent);
+    color: #F5EBDD
 }
 
 .nav-menu {

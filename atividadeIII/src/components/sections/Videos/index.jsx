@@ -6,7 +6,7 @@ export default function Video() {
             <h2>Dedicado ao meus pais! Aqueles que a cada conquista esteve ao meu lado.</h2>
             <div className="video-container">
                 <iframe
-                    src="https://youtu.be/DO5WHMIfjrw?si=MLAjJKGd6Es7VFfL"
+                    src="https://www.youtube.com/embed/DO5WHMIfjrw"
                     title="Xande de Pilares - Gratidão"
                     frameBorder="0"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
